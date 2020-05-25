@@ -1,6 +1,8 @@
-# Change ProjectID in file .firebaserc
-# cd functions
-# npm install
+# Install 
+Change ProjectID in file .firebaserc
+cd functions
+npm install
+
 
 ## Change config in "src/index.js"
 const CHANNEL_ACCESS_TOKEN = ''
